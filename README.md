@@ -21,7 +21,6 @@ No external library required for this.
 
 ## Usage
 
-Basic usage can be done using the `addUrl($url/*, $options*/)` method. This calls `GET $url` by passing in `$options` as the parameters.
 ```php
 <?php
 // Error flag to check any error
